@@ -51,16 +51,6 @@ Run the Streamlit app:
 streamlit run app.py
 
 
-📂 Project Structure
-├── app.py                 # Streamlit App UI
-├── main.py                # Model training script
-├── data/
-│   └── house_rent_data.csv
-├── model/
-│   ├── rent_model.pkl     # Trained model
-│   └── features.pkl       # Feature columns used during training
-├── requirements.txt
-└── README.md
 📷 App Preview
 
 ![image](https://github.com/user-attachments/assets/6bdd1eac-4192-480a-bc8e-1674154b8f69)
