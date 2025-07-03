@@ -43,10 +43,14 @@ Deployment	Streamlit Cloud
 Clone the repo:
 git clone https://github.com/sanjaypanneerselvan/house-rent-prediction-app.git
 cd house-rent-prediction-app
+
 Install dependencies:
 pip install -r requirements.txt
+
 Train the model (optional):
 python main.py
+
+
 Run the Streamlit app:
 streamlit run app.py
 
