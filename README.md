@@ -49,6 +49,8 @@ Train the model (optional):
 python main.py
 Run the Streamlit app:
 streamlit run app.py
+
+
 📂 Project Structure
 ├── app.py                 # Streamlit App UI
 ├── main.py                # Model training script
